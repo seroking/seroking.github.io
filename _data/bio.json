@@ -1,18 +1,18 @@
 {
   "basics": {
-    "name": "Molly Maluhia",
-    "label": "Student",
+    "name": "Mohamed Amine Barid",
+    "label": "Student at OFPPT",
     "picture": "https://github.com/kambergjohnson.png",
-    "email": "molly@hawaii.edu",
-    "phone": "808-333-4444",
+    "email": "baridmohamedamine004@gmail.com",
+    "phone": "+212 614080440",
     "website": "https://mmaluhia.github.io",
     "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2024.",
-    "location": { "address": "", "postalCode": "96822", "city": "Honolulu", "countryCode": "USA", "region": "Hawaii" },
+    "location": { "address": "", "postalCode": "20040", "city": "Casablanca", "countryCode": "MA", "region": "anfa" },
     "profiles": [
-      { "network": "github", "username": "mmaluhia", "url": "http://github.com/changeme" },
-      { "network": "linkedin", "username": "mollymaluhia", "url": "http://linkedin.com/in/changeme" },
-      { "network": "twitter", "username": "mollymal", "url": "http://twitter.com/changeme" },
-      { "network": "instagram", "username": "molly", "url": "http://instagram.com/changeme" }
+      { "network": "github", "username": "seroking", "url": "http://github.com/seroking" },
+      { "network": "linkedin", "username": "sero", "url": "https://www.linkedin.com/in/sero-undefined-9565562b4/" },
+      { "network": "twitter", "username": "sero", "url": "https://x.com/sero30794213" },
+      { "network": "instagram", "username": "sero", "url": "http://instagram.com/sero.oni" }
     ]
   },
   "interests": [
@@ -25,7 +25,7 @@
   "skills": [
     {
       "name": "Languages and Frameworks",
-      "keywords": [ "C", "C++", "Java", "Javascript", "Assembly", "Common Lisp" ]
+      "keywords": [ "C", "python", "PHP", "Javascript", "lua", "React" ]
     },
     {
       "name": "Toolsets/OS",
@@ -34,10 +34,10 @@
   ],
   "education": [
     {
-      "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Computer Science (expected Spring, 2018)",
-      "studyType": "B.S.",
-      "startDate": "2013-09-01",
+      "institution": "ISTA EL HANK",
+      "area": "technicien specialise en developement web full stack",
+      "studyType": "deug",
+      "startDate": "2023-09-01",
       "endDate": "Present",
       "courses": [
       ]
