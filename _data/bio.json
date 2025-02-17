@@ -5,7 +5,7 @@
     "picture": "https://github.com/kambergjohnson.png",
     "email": "baridmohamedamine004@gmail.com",
     "phone": "+212 614080440",
-    "website": "https://mmaluhia.github.io",
+    "website": "https://seroking.github.io",
     "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2024.",
     "location": { "address": "", "postalCode": "20040", "city": "Casablanca", "countryCode": "MA", "region": "anfa" },
     "profiles": [
@@ -16,16 +16,16 @@
     ]
   },
   "interests": [
-    { "name": "Interactive media" },
-    { "name": "Neuromorphic Computing" },
-    { "name": "Quantum Computing" },
-    { "name": "Robotics" },
-    { "name": "3D Graphics" }
+    { "name": "software engineering" },
+    { "name": "digital art" },
+    { "name": "philosophy" },
+    { "name": "Books" },
+    { "name": "sport" }
   ],
   "skills": [
     {
       "name": "Languages and Frameworks",
-      "keywords": [ "C", "python", "PHP", "Javascript", "lua", "React" ]
+      "keywords": [ "C", "python", "PHP", "Javascript", "lua", "React", "bash" ]
     },
     {
       "name": "Toolsets/OS",
